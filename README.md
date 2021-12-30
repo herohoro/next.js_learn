@@ -1,4 +1,4 @@
- [Learn Next.js](https://nextjs.org/learn)を使って習得したことを記録しています。
+ [Learn Next.js](https://nextjs.org/learn)を使って習得したことを記録しています。  
  後日[ブログ](https://easy-notion-blog-02.vercel.app/blog)にまとめ記事を投稿予定です。
 
  ## 活用利点
@@ -8,7 +8,7 @@
 
 
 | step順 | 対応 commit |
-| --- | --- |
+| ----------- | --------------- |
 | 準備 | https://github.com/herohoro/next.js_learn/commit/daa476308b81f1bdb958d7480230d70821d0e441 |
 | 見出し文字を編集 | https://github.com/herohoro/next.js_learn/commit/86542cf63796e7a38408970b889af483604fffb5 |
 | ページ作成 | https://github.com/herohoro/next.js_learn/commit/731e36f21376c1f30186476a062e607f41afcfbd |
