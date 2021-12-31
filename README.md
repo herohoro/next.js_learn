@@ -1,7 +1,7 @@
  [Learn Next.js](https://nextjs.org/learn)を使って習得したことを記録しています。  
  
  
- [herohoroブログ](https://easy-notion-blog-02.vercel.app/blog)ではスクショ一覧から該当commitやlearnへ飛べるようにまとめています。
+ [herohoroブログ](https://easy-notion-blog-02.vercel.app/blog)ではスクショ一覧から該当commitやlearnへ飛べるようにまとめています。  
    :mega:[Next.js Learnで作ったコード【まとめ】](https://easy-notion-blog-02.vercel.app/blog/indexCode_nextjs-learn)
 
  ## 活用利点
