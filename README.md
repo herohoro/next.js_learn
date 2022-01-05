@@ -2,7 +2,10 @@
  
  
  [herohoroブログ](https://easy-notion-blog-02.vercel.app/blog)ではスクショ一覧から該当commitやlearnへ飛べるようにまとめています。  
-   :mega:[Next.js Learnで作ったコード【まとめ】](https://easy-notion-blog-02.vercel.app/blog/indexCode_nextjs-learn)
+   :mega:[Next.js Learnで作ったコード【まとめ】](https://easy-notion-blog-02.vercel.app/blog/indexCode_nextjs-learn)  
+  :mega:[Next.jsの知識を使ってブログ改造した記事一覧](https://easy-notion-blog-02.vercel.app/blog/tag/Next.js)
+
+  
 
  ## 活用利点
  - 各commitには該当lessonリンクをコメントにメモ
