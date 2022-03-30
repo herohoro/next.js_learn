@@ -5,7 +5,7 @@
    :mega:[Next.js Learnで作ったコード【まとめ】](https://herohoro.com/blog/indexCode_nextjs-learn)  
   :mega:[Next.jsの知識を使ってブログ改造した記事一覧](https://herohoro.com/blog/tag/Next.js)
 
-  
+  詳細は[herohoroブログ_Next.jsタグ](https://herohoro.com/blog/tag/Next.js)より随時更新中....
 
  ## 活用利点
  - 各commitには該当lessonリンクをコメントにメモ
